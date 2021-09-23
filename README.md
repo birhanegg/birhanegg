@@ -1,0 +1,5 @@
+- 👋 Hi, I’m birhane Gebre
+- 👀 I’m interested in ... java, spring, springboot, angular
+- 🌱 I’m currently learning ... big data
+- 💞️ I’m looking to collaborate on ... software development 
+- 📫 How to reach me ... 
